@@ -10,6 +10,16 @@ Interested in medicine × machine learning. I share web experiments and practica
 - **[Webの実験室](https://ryu-koda.com/playground/)** — ブラウザで動かして試せるデモ。
 - **[サイトのソースコード](https://github.com/R-Koda/ryu-koda.com)** — Astroで制作した個人サイト。動かし方はREADMEにまとめています。
 
+## Featured project — SplitTrace
+
+**[SplitTrace](https://github.com/R-Koda/splittrace)** — EEG・センサーデータの機械学習向けに、既存のデータ分割を点検するPythonライブラリです。派生サンプルの元データをたどり、被験者や区間の混入を原因の経路とともに示します。情報不足は「検査不能」として扱います。
+
+A provenance-aware Python toolkit for auditing EEG and sensor-data splits. Trace derived samples back to shared sources and inspect subject and interval overlap, with explicit coverage limits.
+
+Experimental · MIT licensed · Synthetic examples and reproducible tests included.
+
+[コード・使い方 / Repository & quickstart](https://github.com/R-Koda/splittrace#readme)
+
 ## 関心のあること
 
 - Medicine × machine learning
