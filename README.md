@@ -18,7 +18,7 @@ A provenance-aware Python toolkit for auditing EEG and sensor-data splits. Trace
 
 Experimental · MIT licensed · Synthetic examples and reproducible tests included.
 
-[コード・使い方 / Repository & quickstart](https://github.com/R-Koda/splittrace#readme)
+[コード・使い方 / Repository & quickstart](https://github.com/R-Koda/splittrace#readme) · [PyPI](https://pypi.org/project/splittrace/) · [ステップ別ガイド / Tutorial](https://ryu-koda.com/blog/splittrace-data-leakage-check/)
 
 ## More developer tools
 
@@ -28,7 +28,7 @@ Experimental · MIT licensed · Synthetic examples and reproducible tests includ
 
 Explain event-level evaluation with one-to-one matching, interactive tolerance comparisons, and local HTML reports.
 
-[使い方 / Quickstart](https://github.com/R-Koda/eventscore-explorer#readme) · [Synthetic examples](https://github.com/R-Koda/eventscore-explorer/tree/main/examples)
+[使い方 / Quickstart](https://github.com/R-Koda/eventscore-explorer#readme) · [PyPI](https://pypi.org/project/eventscore-explorer/) · [ステップ別ガイド / Tutorial](https://ryu-koda.com/blog/eventscore-explorer-event-evaluation/) · [Synthetic examples](https://github.com/R-Koda/eventscore-explorer/tree/main/examples)
 
 ### [Notebook Publish Check](https://github.com/R-Koda/notebook-publish-check)
 
@@ -36,7 +36,7 @@ Jupyter Notebookの公開前に、秘密情報らしい文字列・絶対パス�
 
 Review notebooks without executing code. Inspect cell-level findings, keep useful figures, and export a separate copy with selected outputs removed.
 
-[使い方 / Quickstart](https://github.com/R-Koda/notebook-publish-check#readme) · [Synthetic examples](https://github.com/R-Koda/notebook-publish-check/tree/main/examples)
+[使い方 / Quickstart](https://github.com/R-Koda/notebook-publish-check#readme) · [PyPI](https://pypi.org/project/notebook-publish-check/) · [ステップ別ガイド / Tutorial](https://ryu-koda.com/blog/notebook-publish-check-guide/) · [Synthetic examples](https://github.com/R-Koda/notebook-publish-check/tree/main/examples)
 
 Both tools are experimental, MIT licensed, and include synthetic demos and tests. Notebook checks are heuristic; local reports contain the original notebook and should be kept private.
 
