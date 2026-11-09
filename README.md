@@ -20,6 +20,26 @@ Experimental · MIT licensed · Synthetic examples and reproducible tests includ
 
 [コード・使い方 / Repository & quickstart](https://github.com/R-Koda/splittrace#readme)
 
+## More developer tools
+
+### [EventScore Explorer](https://github.com/R-Koda/eventscore-explorer)
+
+時系列の正解・予測イベントを対応づけ、見逃し・誤検出・検出時刻のずれを可視化。許容時間を切り替え、スコアが変わる理由を確認できます。
+
+Explain event-level evaluation with one-to-one matching, interactive tolerance comparisons, and local HTML reports.
+
+[使い方 / Quickstart](https://github.com/R-Koda/eventscore-explorer#readme) · [Synthetic examples](https://github.com/R-Koda/eventscore-explorer/tree/main/examples)
+
+### [Notebook Publish Check](https://github.com/R-Koda/notebook-publish-check)
+
+Jupyter Notebookの公開前に、秘密情報らしい文字列・絶対パス・巨大な出力を点検。図を残しながら不要な出力を選んで除去し、元ファイルを変更せず別のコピーに保存できます。
+
+Review notebooks without executing code. Inspect cell-level findings, keep useful figures, and export a separate copy with selected outputs removed.
+
+[使い方 / Quickstart](https://github.com/R-Koda/notebook-publish-check#readme) · [Synthetic examples](https://github.com/R-Koda/notebook-publish-check/tree/main/examples)
+
+Both tools are experimental, MIT licensed, and include synthetic demos and tests. Notebook checks are heuristic; local reports contain the original notebook and should be kept private.
+
 ## 関心のあること
 
 - Medicine × machine learning
